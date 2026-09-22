@@ -5,6 +5,8 @@
 
 ## 📊 Project Overview
 The **The Fashion Store Annual Report 2025** dashboard provides a comprehensive end-to-end data analysis of sales performance, customer demographics, and order fulfillment. Built using advanced Excel features (Data Cleaning, Pivot Tables, Formulas, and Slicers), this interactive dashboard translates raw retail data into actionable business intelligence to optimize marketing strategies and inventory planning.
+![Dashboard Screenshot](Dashboard_Image.png)
+
 
 ---
 
